@@ -1,3 +1,5 @@
+Se implemento el Vue Router
+
 # vue_router
 
 ## Project setup
